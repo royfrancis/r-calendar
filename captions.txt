@@ -1,0 +1,13 @@
+month	description	textcol
+1	Snowy landscape	grey20
+2	Snowfall on the leaves	grey20
+3	Blue waters and mountains	grey20
+4	Flower macro	grey20
+5	Lady in the woods	grey20
+6	Field of barley	grey20
+7	Out in the open sea	grey20
+8	Palm trees in the sky	grey20
+9	Rocky mountains	grey20
+10	By the seashore	grey20
+11	Colours of the sunset	grey20
+12	Snow leopard	grey20

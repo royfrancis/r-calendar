@@ -1,0 +1,35 @@
+date	description	type
+Jan 01	New Year's Day	public holiday
+Mar 20	Spring Equinox	none
+Mar 25	Daylight Saving Time Starts	none
+Mar 30	Good Friday	public holiday
+Mar 31	Holy Saturday	half holiday
+Apr 01	Easter Day	public holiday
+Apr 02	Easter Monday	public holiday
+May 01	Worker's Day	public holiday
+May 10	Ascension Day	public holiday
+May 19	Pentecost Eve	half holiday
+May 20	Whit Sunday	public holiday
+May 27	Mother's Day	holiday
+Jun 06	National Day	public holiday
+Jun 21	Summer Solstice	none
+Oct 28	Daylight Saving Time Ends	none
+Nov 02	All Saints' Eve	half holiday
+Nov 03	All Saints' Day	public holiday
+Nov 11	Father's Day	holiday
+Dec 21	Winter Solstice	none
+Dec 24	Christmas Eve	public holiday
+Dec 25	Christmas Day	public holiday
+Dec 26	Boxing Day	public holiday
+Dec 31	New Year's Eve	holiday
+Mar 15	Jack	birthday
+Sep 06	Betty	birthday
+Oct 08	Mark	birthday
+Oct 21	Albert	birthday
+Jul 26	Bo	birthday
+Apr 15	Veronica	birthday
+Jun 28	Alex	birthday
+Sep 19	James	birthday
+Dec 02	Chloe	birthday
+Aug 13	Winston	birthday
+Jul 11	Wedding day	birthday
